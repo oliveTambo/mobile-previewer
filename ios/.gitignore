@@ -1,0 +1,41 @@
+## numerous always-ignore extensions
+######################
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.vi
+*~
+*.zip
+*.sass-cash
+
+# OS or Editor folders
+######################
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+*.esproj
+.cache
+.project
+.settings
+.tmproj
+*.esproj
+nbproject
+*.sublime-project
+*.sublime-workspace
+
+# Dreamweaver added files
+_notes
+dwsync.xml
+
+# temporary files #
+###################
+*.autosave
+*(Autosaved)*
+*.sla.autosave
+
+
